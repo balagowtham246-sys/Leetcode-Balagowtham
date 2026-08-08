@@ -11,3 +11,11 @@ Language Used:
 
 "The expert in anything was once a beginner."
 Happy coading !!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3110-score-of-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3110-score-of-a-string/) | Easy |
+<!---LeetCode Topics End-->
