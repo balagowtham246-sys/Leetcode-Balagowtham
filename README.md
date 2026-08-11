@@ -23,4 +23,12 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2469-convert-the-temperature](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2469-convert-the-temperature/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
