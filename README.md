@@ -17,6 +17,7 @@ Happy coading !!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3110-score-of-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3110-score-of-a-string/) | Easy |
 ## Math
@@ -44,4 +45,24 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0509-fibonacci-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Knuth–Morris–Pratt Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Boyer–Moore String-Search Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
