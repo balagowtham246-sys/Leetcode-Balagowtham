@@ -17,6 +17,7 @@ Happy coading !!
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3110-score-of-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3110-score-of-a-string/) | Easy |
@@ -65,4 +66,12 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0020-valid-parentheses/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
