@@ -41,6 +41,7 @@ Happy coading !!
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -74,4 +75,8 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
