@@ -36,6 +36,7 @@ Happy coading !!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1800-maximum-ascending-subarray-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -45,6 +46,7 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0001-two-sum/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## Dynamic Programming
@@ -68,6 +70,7 @@ Happy coading !!
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0696-count-binary-substrings](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0696-count-binary-substrings/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -106,6 +109,7 @@ Happy coading !!
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -118,5 +122,6 @@ Happy coading !!
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1539-kth-missing-positive-number/) | Easy |
 <!---LeetCode Topics End-->
