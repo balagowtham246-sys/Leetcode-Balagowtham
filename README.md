@@ -34,10 +34,12 @@ Happy coading !!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0001-two-sum/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ Happy coading !!
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0509-fibonacci-number/) | Easy |
+| [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,5 +92,10 @@ Happy coading !!
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2843-count-symmetric-integers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2843-count-symmetric-integers/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 <!---LeetCode Topics End-->
