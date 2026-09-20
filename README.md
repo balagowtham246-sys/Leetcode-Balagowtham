@@ -37,6 +37,7 @@ Happy coading !!
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 ## Hash Table
