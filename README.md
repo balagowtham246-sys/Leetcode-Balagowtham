@@ -21,6 +21,7 @@ Happy coading !!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3110-score-of-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3110-score-of-a-string/) | Easy |
+| [3174-clear-digits](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3174-clear-digits/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0020-valid-parentheses/) | Easy |
+| [3174-clear-digits](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3174-clear-digits/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +100,8 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
