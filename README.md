@@ -26,6 +26,7 @@ Happy coading !!
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0509-fibonacci-number/) | Easy |
 | [2469-convert-the-temperature](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2469-convert-the-temperature/) | Easy |
+| [2843-count-symmetric-integers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2843-count-symmetric-integers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +84,8 @@ Happy coading !!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2843-count-symmetric-integers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2843-count-symmetric-integers/) | Easy |
 <!---LeetCode Topics End-->
