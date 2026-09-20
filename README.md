@@ -19,6 +19,7 @@ Happy coading !!
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0696-count-binary-substrings](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0696-count-binary-substrings/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3110-score-of-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3110-score-of-a-string/) | Easy |
 | [3174-clear-digits](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3174-clear-digits/) | Easy |
@@ -63,6 +64,7 @@ Happy coading !!
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
+| [0696-count-binary-substrings](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0696-count-binary-substrings/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
