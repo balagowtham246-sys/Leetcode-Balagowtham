@@ -42,6 +42,7 @@ Happy coading !!
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ Happy coading !!
 | [0349-intersection-of-two-arrays](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3396-minimum-number-of-operations-to-make-elements-in-array-distinct/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
