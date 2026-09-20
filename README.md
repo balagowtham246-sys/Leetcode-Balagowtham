@@ -33,6 +33,7 @@ Happy coading !!
 | [0001-two-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
+| [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +57,7 @@ Happy coading !!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0283-move-zeroes](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0283-move-zeroes/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
