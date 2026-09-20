@@ -40,11 +40,13 @@ Happy coading !!
 | [1800-maximum-ascending-subarray-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2873-maximum-value-of-an-ordered-triplet-i/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/0001-two-sum/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/balagowtham246-sys/Leetcode-Balagowtham/tree/main/3375-minimum-operations-to-make-array-values-equal-to-k/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
